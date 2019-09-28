@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## An introduction about me and my work
 
-You can use the [editor on GitHub](https://github.com/7wik/7wik.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm Satwik
+
+I completed my Bachelors in Electrical Engineering from IIT BHU Varanasi. After that I have worked as a Research Assistant for a year at IIT-Hyderabad. I am currently working as a **Senior Associate** in CT-Tech Practice(work equivalent to a ML engineer) at **EY**. 
+
+I'm an ML enthusiast. Working on multiple areas in the broad spectrum of ML and it's related areas like Reinforcement Learning, Computer Vision, Deep learning, during my B-Tech and the later years, nurtured this enthusiasm of mine. 
+
+Under the guidance of [Prof Vineeth Balasubramanian](https://www.iith.ac.in/~vineethnb/), Prof Lakshmanan Kailasam[https://www.iitbhu.ac.in/dept/cse/people/lakshmanankcse] [Sanjeev sharma](https://www.linkedin.com/in/sanjeevsharmaiitr/) I have learnt many things
+Prior to my job, some great professors/mentors- I got guided by them from whom I owe a lot and launched me in this quest for research. 
+
+[editor on GitHub](https://github.com/7wik/7wik.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
