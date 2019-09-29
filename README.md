@@ -2,7 +2,7 @@
 
 Hi! I'm Satwik
 
-I completed my Bachelors in Electrical Engineering from IIT BHU Varanasi. After that I have worked as a Research Assistant for a year at IIT-Hyderabad. I am currently working as a **Senior Associate** in CT-Tech Practice(work equivalent to a ML engineer) at **EY**. 
+I completed my Bachelors in Electrical Engineering from IIT BHU Varanasi. After that I have worked as a Research Assistant for a year at IIT-Hyderabad. I am currently working as a **Senior Associate** in CT-Tech Practice(work equivalent to an ML engineer) at **EY**. 
 
 I'm an ML enthusiast. Working on multiple areas in the broad spectrum of ML and it's related areas like Reinforcement Learning, Computer Vision, Deep learning, during my B-Tech and the later years, nurtured this enthusiasm of mine. 
 
